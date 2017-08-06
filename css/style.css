@@ -1,0 +1,284 @@
+
+body{color:#000}
+p{}
+
+
+
+
+.img{
+    max-height: 200px;
+    overflow: hidden;
+}
+.img img{}
+.copyright > span {
+    color: #FFB300
+}
+
+.header_area {
+	background: #333333;
+	padding: 15px 0;
+	color: #fff;
+}
+
+.container {
+}
+
+.row {
+}
+
+.col-sm-6 {
+}
+
+.header-logo {
+}
+
+.img-responsive.pull-left {
+}
+
+.pull-right.address {
+}
+
+.fa.fa-square {
+}
+
+.menu_area {
+	background: background: rgb(254,252,234);
+background: -moz-linear-gradient(left, rgba(254,252,234,1) 71%, rgba(255,179,0,1) 71%);
+background: -webkit-linear-gradient(left, rgba(254,252,234,1) 71%,rgba(255,179,0,1) 71%);
+background: linear-gradient(to right, rgba(254,252,234,1) 71%,rgba(255,179,0,1) 71%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#ffb300',GradientType=1 );
+margin-top: 15px;
+}
+
+.main_menu {
+}
+.menu{
+	
+}
+.menu li{
+	
+}
+.menu li a{
+	color:#000;
+}
+.menu li a:hober{
+	
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    text-decoration: none;
+background-color: #ffb300;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #333;
+text-transform: uppercase;}
+
+
+.social li{
+	width: 40px;
+height: 40px;
+text-align: center;
+line-height: 40px;
+margin:6px 3px 0px 0
+}
+.social li a{
+	
+	padding: 10px;
+	background: #fff;
+	font-size: 17px;
+	border-radius: 50%;
+	color: #333;
+}
+
+.social li a:hover{
+	background:none;
+	border:1px solid #000;
+}
+
+
+
+.banner_area {
+	background:url(../images/banner.jpg); background-size:cover;
+	position: relative;
+}
+
+.overlay {
+	background: rgba(21, 19, 19, 0.69);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.col-sm-12 {
+}
+
+.banner-text{
+	
+color: #ffb300;
+padding:100px 0;
+}
+.banner-text h1{
+	font-size: 70px;
+}
+.banner-text p {
+	
+	color: #fff;
+	font-size: 20px;
+}
+.banner-text a {
+	
+	font-size: 15px;
+}
+
+.btn.btn-custom {
+	    color: #fff;
+    background-color: #ffb300;
+    padding: 10px 60px;
+	margin-top:60px;
+}
+
+
+.promo_area {
+	padding:50px;
+}
+
+.promo.text-center {
+}
+
+.service_area {
+	background:#ededed;
+	padding:50px;
+}
+
+.service-overlay {
+}
+
+.service {
+	position:relative;
+}
+
+.service-img p {
+	background: #FFB300;
+	color: #fff;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 600;
+	
+}
+
+.service-img img {width: 100%;}
+.service-img{opacity:.5; 
+}
+.service-img:hover{opacity:1; 
+}
+
+.img-responsive {
+	
+}
+
+.service-btn img {
+	margin: 0px auto;
+padding-top: 30px;
+}
+
+.content_area {
+	padding:50px;
+}
+
+.content-text {
+}
+
+.content-img {
+}
+
+.spacia_area {
+	background:url(../images/spacial.jpg); background-size:cover;
+}
+.spacial{position:relative; color:#000}
+.spacia-overlay {
+	background: rgba(255, 255, 255, 0.82);
+width: 100%;
+height: 100%;
+position: absolute;
+}
+.spacial h1{position:relative; color:#000}
+
+.service-icon.pull-left {
+}
+
+.service-text {
+}
+
+.footer_top_area {
+	background: #686565;
+color: #fff;
+}
+
+.col-sm-6.form-group {
+}
+
+.form-control {
+	background: RGBA(24, 22, 22, 0.31);
+border: none;
+box-shadow:none; color:#fff
+}
+.form-control:focus {
+	background: RGBA(24, 22, 22, 0.31);
+border: none;
+box-shadow:none; color:#fff
+}
+
+.form-group {
+}
+
+.checkbox.pull-left {
+}
+
+.btn.btn-default.pull-right {
+}
+
+.footer-bg {
+}
+
+.list-inline.footer_menu {
+}
+
+.copyright {
+}
+
+.list-inline.pull-right.f-social-icon {
+}
+
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+border: 1px solid #fff;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background: #fff;
+}
+footer{padding: 20px 0px;
+background: rgb(0, 0, 0) none repeat scroll 0% 0%;
+color: rgb(255, 255, 255);}
+.footer-menu{}
+.footer-menu li a{color:#fff}
+.footer-menu{}
+.footer-menu{}
